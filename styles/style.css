@@ -687,7 +687,7 @@ justify-content: center;
     flex-direction: column;
     justify-content: center;
     margin-top: 7vh;
-    padding:20px;
+    
 }
 
 
@@ -754,7 +754,7 @@ margin-left: 4%;
     background-color: #c9cace;
     height: 75vh;
     margin-top: 5vh;
-    padding: 5px;
+    padding: 20px;
     padding-bottom: 20px;
     /* display: flex; */
 
@@ -828,7 +828,7 @@ margin-left: 4%;
 
 footer{
     width: 100%;
-    padding: 20px;
+    padding: 30px;
     height: auto;
     background-color: var(--footer);
     color: var(--white);
